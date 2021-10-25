@@ -3,6 +3,7 @@
   "version": "0.1.0",
   "private": true,
   "homepage": "https://nokia.sharepoint.com/sites/learn/weshare/SitePages",
+  "main": "./src/index.js",
   "dependencies": {
     "antd": "^3.3.0",
     "gd-sprest": "^3.8.6",
